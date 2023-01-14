@@ -17,7 +17,7 @@ class FreqQUI:
 
         self.root.mainloop()
 
-    def show_message:
+    #def show_message:
         
 
 FreqQUI()
