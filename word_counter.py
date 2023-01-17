@@ -23,3 +23,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+#class Counter:
+#    def __init__(self):

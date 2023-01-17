@@ -1,4 +1,5 @@
 import tkinter as tk
+import word_counter
 
 class FreqQUI:
     def __init__(self):
